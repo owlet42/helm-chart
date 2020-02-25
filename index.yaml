@@ -3,22 +3,11 @@ entries:
   fate:
   - apiVersion: v1
     appVersion: v1.2.0
-    created: "2020-02-18T17:25:15.482786+08:00"
+    created: "2020-02-25T14:08:24.270469+08:00"
     description: A Helm chart for fate-party
-    digest: 5fc7d283a77361f204470ebdb808435c80822e562f4ba53b68e4f75495b536ac
+    digest: 88131a748af28790773ea898ec0afacd4c5388a3a3e78324a313f38387375cf6
     name: fate
     urls:
     - https://owlet42.github.io/helm-chart/fate-1.2.0.tgz
     version: 1.2.0
-  helloworld:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-02-18T17:25:15.4847905+08:00"
-    description: A Helm chart for Kubernetes
-    digest: 4fead3299291db1b031dde0ac4f3c4aa94d7db5ea6f5c2d2b117a09ec9f5f0b8
-    name: helloworld
-    type: application
-    urls:
-    - https://owlet42.github.io/helm-chart/helloworld-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-02-18T17:25:15.4797865+08:00"
+generated: "2020-02-25T14:08:24.2664699+08:00"
