@@ -3,11 +3,11 @@ entries:
   fate:
   - apiVersion: v1
     appVersion: v1.2.0
-    created: "2020-02-25T14:42:46.7086644+08:00"
+    created: "2020-02-26T20:23:15.2642768+08:00"
     description: A Helm chart for fate-party
-    digest: 0353a404f78109cfc0b5b2721430c4fd892f053063f0ae9cd05139187b63999f
+    digest: c281fd948d9c308fe7b93066929285c75a865d653b138a1439657ab430053938
     name: fate
     urls:
     - https://owlet42.github.io/helm-chart/fate-1.2.0.tgz
     version: 1.2.0
-generated: "2020-02-25T14:42:46.7016644+08:00"
+generated: "2020-02-26T20:23:15.2522838+08:00"
